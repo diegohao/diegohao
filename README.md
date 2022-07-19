@@ -6,6 +6,7 @@
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="left" width="50px" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" />
 
 <br>
 <br>
